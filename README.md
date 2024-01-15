@@ -20,4 +20,5 @@ Now, download modules: pip install pandas, scikit-learn, tensorflow, ntlk, kivy[
 
 
 
+![image](https://github.com/dromation/study/assets/105428507/7d73ce8a-db9b-424d-9e06-f6085b446bc2)
 
