@@ -26,6 +26,7 @@ Now, download modules: pip install pandas, scikit-learn, tensorflow, ntlk, kivy[
 TEST VERSIONS - REPORTS
 
 | Test version | Status | Comments|
+---|---|---|
 | v01 | Failed| table columns are in chaos! |
 | v02 | Failed| GUI is not a good option |
 | v03 | Failed| Problem between pandas and kivy modules - too many property inheritance errors |
