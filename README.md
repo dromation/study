@@ -22,3 +22,12 @@ Now, download modules: pip install pandas, scikit-learn, tensorflow, ntlk, kivy[
 
 ![image](https://github.com/dromation/study/assets/105428507/7d73ce8a-db9b-424d-9e06-f6085b446bc2)
 
+
+TEST VERSIONS - REPORTS
+
+| Test version | Status | Comments|
+| v01 | Failed| table columns are in chaos! |
+| v02 | Failed| GUI is not a good option |
+| v03 | Failed| Problem between pandas and kivy modules - too many property inheritance errors |
+| v04 | Failed| CSV table is not good for machine learning |
+| v05 | Ongoing|  |
